@@ -12,10 +12,12 @@ div.margin {
 
 
 html[data-theme=light] {
-    --pst-color-secondary-bg: #ff8623d4;
+    --sbt-color-announcement: var(--bs-border-color-translucent) !important;
+    --pst-color-secondary-bg: var(--bs-border-color-translucent) !important;
 }
 html[data-theme=dark] {
-    --pst-color-secondary-bg: #333333;
+    --sbt-color-announcement: var(--bs-border-color-translucent) !important;
+    --pst-color-secondary-bg:var(--bs-border-color-translucent) !important;
 }
 .bd-header-announcement {
     background-color: var(--bs-border-color-translucent) !important;
