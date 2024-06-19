@@ -58,7 +58,7 @@ latex_elements = {
 \adjustboxset{max size={\textwidth}{\textheight}}
 
 % Title information
-\title{Single Issuer Manual}
+\title{Enterprise User Manual}
 \author{Author Name}
 \date{\today}
 
