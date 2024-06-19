@@ -1,64 +1,72 @@
 
-*********
+
 Help Desk
-*********
+=========
 
-The Help Desk options are:
+Use this option to view your help desk queries and add a new query.
 
-- :ref:`Contact Us`
-- :ref:`Download User Manual`
+Help Desk Queries
+-----------------
 
+1. Select **Help Desk Queries** from the main menu.
 
-Contact Us
-==========
+   | The Help Desk queries screen opens.
 
+.. figure:: _static/pdf_images/page_228_image_1.png
+   :alt: Help Desk, Help Desk Queries screen.
 
-Use this option to contact us if you have an issue.
+   Help Desk, Help Desk Queries screen.
 
-1. Select **Contact Us** from the main menu.
+2. Select the type of queries that you want to view from the **New & In Progress** drop-down list or use the **Search** field.
 
-   | The *Contact Us Help Desk Tickets* screen opens.
+3. To view a specific query, click the folder icon in the row that you want to view.
 
+   | The View Query case # (number) opens.
 
-.. figure:: _static/pdf_images/page_90_image_2.png
-   :alt: Help Desk, Contact Us, Contact Us Help Desk Tickets screen.
+.. figure:: _static/pdf_images/page_228_image_2.png
+   :alt: Help Desk, View Query case (#) screen.
 
-   Figure 161. Help Desk, Contact Us Contact Us Help Desk Tickets screen.
+   Help Desk, View Query case (#) screen.
 
+4. To leave a message, scroll down to the **Response** section and add your message in the **Correspondence** field.
 
-2. Fill in all required fields.
-3. If necessary select **Choose File** to upload an attachment from your desktop to your help desk ticket.
-4. Select **Save**.
+5. Select **Save**.
 
-   | The issue is sent to us and is logged in the table below the **Cancel** and **Save** buttons as shown in the figure below.
+Add a New Query
+---------------
 
+Use this option to log an issue.
 
-.. figure:: _static/pdf_images/page_91_image_1.png
-   :alt: Example of logged issue.
+1. Select **Add New Query** from the main menu.
 
-   Figure 162. Example of logged issue.
+   | The Add New Query screen opens.
 
-5. To view a response to your issue, click the view details icon in the row that you want to view.
+.. figure:: _static/pdf_images/page_229_image_1.png
+   :alt: Help Desk, Add New Query screen.
 
-   | The *View Query Case #* screen opens. In the example below, the status shows complete and a response from the staff who handled your issue.
+   Help Desk, Add New Query screen.
 
-.. figure:: _static/pdf_images/page_91_image_2.png
-   :alt: Example of View Query Case # Status and Correspondence
+2. Select the type of query from the **Type** drop-down list.
+3. Select the priority level from the **Priority** drop-down list.
+4. Enter a brief description of your query in the **Subject** line.
+5. Add a description of your query in the **Description** box.
+6. To attach a file, select **Choose File** and upload your file from your desktop. (See **Upload a Document** for instructions.)
+7. Select **Save**.
 
-   Figure 163. Example of View Query Case # Status and Correspondence
+   | The Add New Query screen closes, and the Help Desk queries screen opens and displays your opened query.
 
+Edit an Open Query
+------------------
 
-.. tip::
+1. From the Help Desk Queries screen (Figure 300), click the folder icon in the row that you want to edit.
 
-   You can continue correspondence, or you can select **Back to Help Desk Queries** to return to the previous screen.
+   | The View Query Case # screen opens.
 
+.. figure:: _static/pdf_images/page_230_image_1.png
+   :alt: Help Desk, View Query Case # screen.
 
-Download User Manual
-====================
+   Help Desk, View Query Case # screen.
 
-| Use this option to download the user manual in PDF format.
-| When you select this option the user manual opens in a separate browser window.
-
-* In the upper left corner select the download icon to download the manual to your desktop or the print icon to print the manual from your printer.
-
-Figure 163. Example of View Query Case # Status and Correspondence.
+2. Enter the reason for the edit in the **Correspondence** box.
+3. Select **Save**.
+4. Select **Back to Help Desk Queries** to return to the previous screen.

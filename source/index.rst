@@ -1,7 +1,7 @@
 
-#########################
-Single Issuer User Manual
-#########################
+######################
+Enterprise User Manual
+######################
 
 
 .. note::
@@ -24,12 +24,17 @@ Table of Contents
    :maxdepth: 2
 
    General.rst
-   My_Accounts.rst
-   Company_Information.rst
-   Manage_Stock.rst
-   Certificates.rst
-   Reports.rst
+   Activity_List.rst
+   Log_Transaction.rst
+   Transfer.rst
+   Corporate_Actions.rst
    Billing.rst
+   Shipping.rst
+   Issuers.rst
+   Company_Information.rst
+   Shareholders.rst
+   Admin.rst
    Knowledge_Center.rst
    Help_Desk.rst
-   Index_end.rst
+
+
