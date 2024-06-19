@@ -9,3 +9,22 @@ div.margin {
     padding: 10px;
     border: 1px solid #ccc;
 }
+
+.custom-announcement {
+    width: 100%;
+    background-color: #e0e0e0; /* Light gray background */
+    text-align: center;
+    padding: 10px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333; /* Darker text for contrast */
+}
+
+.custom-announcement a {
+    color: #007bff; /* Blue color for the link */
+    text-decoration: none;
+}
+
+.custom-announcement a:hover {
+    text-decoration: underline;
+}
