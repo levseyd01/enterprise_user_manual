@@ -39,6 +39,8 @@ html[data-theme=dark] {
     font-size: 1.2em !important;
     font-weight: bold !important;
     color: #333 !important; /* Darker text for contrast */
+
+    background-color: var(--bs-border-color-translucent) !important;
 }
 
 .custom-announcement a {
