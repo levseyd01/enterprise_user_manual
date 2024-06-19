@@ -1,0 +1,42 @@
+TRANSFER
+
+SOLO
+
+General
+
+Use this option to view the company's general information, upload a site logo, as well as reports
+and certificate logos, view the latest transactions, and add/edit notes and edit address
+information.
+
+Company / Company Accou
+
+Company Account
+
+Demo Company fa LOGO FOR REPORTS & CERTIFICATE LAYOUT
+2 Qa
+Corporate information Q ee Cony ey 6
+Sym DEMO
+State of ncrporati Oregon
+9 ¢ 2 Qa
+Ema Bena € pony o
+Web Ste
+Phone 509 555.5665
+Fae LATEST TRANSACTIONS
+Figure 9. General, Company Account General screen.
+Note: Many of the options on this screen are linked to other Company Information options.
+Before you change the company name, make sure that you have the authority to change it.
+e Click the edit icon next to the company name (see figure above).
+The Change Company Name screen opens.
+emmy) Caeeco
+Change Company
+
+Current Name Demo Company
+
+New Company Name
+Effective Date 1/91/2023 9:19:53 AM
+
+Comment
+
+Figure 10. General, Change Company Name screen.
+
+12 Transfer Online Confidential 2023

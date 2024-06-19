@@ -1,0 +1,42 @@
+TRANSFER
+
+SOLO
+
+Use this option to view a complete list of all your transactions and their full details, as well as
+perform a range of transactions. Select View More to open the Transaction History screen.
+
+Company / Transaction History
+
+Transaction
+
+Show 10 v entties Performed Date Al v
+
+Transaction ID Transaction Type Effective Date Process Date Canceled Shares Issued Shares Performed By
+
+43.997 New Issuance 71/2022 zm112022 120,000 Demo User
+28.317 Transfer 5131/2021 12/17/2021 3,000 3,000 Demo User
+26-316 Stock Dividend 1272112023 32/2028 12 Demo User
+
+Figure 6. Transaction History screen.
+
+This screen is linked to the Transaction History option in the main menu. For more information
+on this option, see Transaction History.
+
+You can click on a dashboard heading, such as Shareholders with Highest Ownership, to open
+additional options.
+
+You can also delete sections that you do not want to see on your dashboard, by clicking the X in
+the red box, as indicated in the figure below.
+
+Figure 7. Dashboard, delete icon.
+
+If you delete a section, you can always add it back to the dashboard. Click the settings tool 8 |
+and tick the desired checkbox. Click > to collapse the Settings box.
+
+Settings
+
+ssa g
+
+Figure 8. Settings.
+
+11 Transfer Online Confidential 2023

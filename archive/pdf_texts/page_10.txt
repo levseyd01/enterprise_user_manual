@@ -1,0 +1,69 @@
+TRANSFER
+
+SOLO
+
+Company | Shareholder List
+
+Shareholde
+
+&@ Add New Shareholder Account W@iSend Statement To All Shareholders
+
+Show 10 entries Name v
+
+ID y SortName Name Address Phone Emall
+2222 G LANE
+428-918 TRUST LARRY MATTHEWS LARRY MATTHEWS TRUST LOS ANGELOS,
+
+United States
+
+www
+www,
+United States
+
+409-208 www ZovsVvecv
+
+testaddress
+testaity,
+United States
+
+403-491 tesi2 Test!
+
+Figure 4. Shareholder List screen.
+
+This screen is linked to the Shareholders option located in the main menu. For more information
+on this option, see Shareholders.
+
+Use this option to run detailed reports on your company shares and shareholders, download
+
+reports, or email reports to investors and company contacts. Select View More to open the
+Current Balance Report screen.
+
+Current Balance
+
+Ban Compounry
+
+. 1.250M
+Set report filters: Authorized Ml Issued [ll Outstanding
+
+1,000m
+
+CutOf Date 4/31/2023
+
+Security [All Securities) v
+
+Download as PDF & 250M
+
+Security Shareholders Issued Outstanding
+
+Non Restricted Restricted Authorized Avallable
+Bond 3 196381 425,000 125,000 ° 2,000,000 esata
+Common 1” 00,000,000 51,223,704 45,108,480 615.204 + 000,000,000 500,000,000
+Debenture 1" 60,001 57,9945 56,251 47435 100,000 39,999
+Almerests 1 120,000 120,000 ° 120,000 12,000,000 11,880,000
+
+Figure 5. Current Balance Report screen.
+
+This screen is linked to the Reports option located in the main menu. For more information on
+this option, see Reports.
+
+10 Transfer Online Confidential 2023

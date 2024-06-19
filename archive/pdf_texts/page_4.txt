@@ -1,0 +1,58 @@
+TRANSFER
+
+ine
+
+SOLO
+
+Table of Contents
+
+My ACCOUNES .........c:ccceeeeeeceeeecenneeeeeecaaeeeeeceaaeeeecesaaeeeesceaaeeeeseceaeeeeeseaaeesesecaaeeeescecaeeeeeesneeeeeeeeeeeees 8
+Link to My Shareholder ACCOUNK .............:cccccccceceeeeceeeeeeeeeeeeeeecaeeeeeeeeaaeeeeeecaeeeeeseeneeeeeeeneeeeenees 8
+Company Information .............ccccccccceeeeeeeeeeececeeeeeeeeeeeeeecaaeeeeecaaeeeeeceaeeesececeeeesseseaeeeeeeseeeeeeeeeaees 9
+Dashboard... eee cece eeeneeceneeseeeeseaeeceaaeeeaaeeseaeeseaeesesaeeseaeescaeeseaeesesaeessaeeseneesneeeesseeeeneeseaea 9
+
+Manage Shareholders...
+Create Reports
+Manage Stocks .0....... eee eeeceeeceeeeneeeeseeeeeeeeseaeeseaeessaaeeseaeeseaeeeeaeesseeessaeeseeeseseeesneeteneeeeneeees
+
+General
+
+Change Company Name... wee
+Edit Company Information..............006 113
+Upload a Logo for Reports & Certificate Layout ..
+Upload a Site Logo
+Latest Transactions... eee ceececeseeeeeeeeseeeeceeeeeseeeseeeessaeeseaeeessaeessaeeseeeeeseeeeseesseeeeeeneees 13
+
+Authorized Shares ...........:cccccccecccceeeecceeeeeeeeceeeeeceaeeeeeeccaaeeeesesaaeeeescecaeeseeeeaeeeeeseeeeeeeeeeeseeeeeseeaee 14
+
+Edit Authorized Shares
+Delete Authorized Shares
+
+SOCUrItyY TYPOS........ccceccccceeceeneeeeecenneeececceaeeeeeceaaeeeeseaaeeeeeceaaeeeesccaeeesececeeeeseecceeeeseeeeeeeeeeneeess 15
+
+Add a New Security Type
+Edit a Security Type...
+Edit a Certificate
+Delete a Security Type...
+
+Reserved Shar es..........::::cccccceeeeees 18
+
+Reserve Shares for a Shareholder...
+Link to a Reserve Account
+
+History
+Shareholders
+
+Add a New Shareholder Account
+Send Statements to all Shareholders...
+View Shareholder Details..
+
+Web Account Users
+
+Add a Web Account User
+View Web Account Details
+Link to Another Shareholder Account
+
+Administrators
+
+iv Transfer Online Confidential 2023

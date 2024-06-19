@@ -1,0 +1,56 @@
+TRANSFER
+
+SOLO
+
+Company Information
+
+If you are just getting started and have not linked your account to any shareholder, the
+dashboard will automatically open after you sign into your account.
+
+The Company Information options are:
+
+Dashboard Web Account Users
+General Administrators
+Authorized Shares News
+
+Security Types Documents
+Reserved Shares Emails
+
+History Activity List
+
+Shareholders
+
+Some options may not be available. For example, if you did not add administrators when you
+signed up, the Administrators option may not appear in the main menu.
+
+Dashboard
+The dashboard allows you to find information quickly.
+
+Dashboard
+
+Dashboard _
+
+) Manage Shareholders 2) Manage Stock
+
+v SHAREHOLDERS WITH HIGHEST OWNERSHIP. [ x] lv AUTHORIZED SHARES [ x}
+
+Shareholders: 1.25 5%
+
+al
+James Bond: 0.72 % ra 1,000m
+as126 \ 750M
+
+Buddy: 8.32 %
+
+Reserve Shares for AAAAA: 83.40 %
+
+Reserve Shares for AAAAA Ml Buddy la Bugs Ml James Bond Ill Shareholders Rinsens gona? Common? pebeamre T Opens | rete
+
+Figure 3. Dashboard.
+
+Use this option to check shareholder details, assign certificates, answer shareholder queries,
+and provide shareholders with web account access. Select View More to open the Shareholder
+List screen and view shareholder details, add a new shareholder account, and send statements
+to shareholders.
+
+9 Transfer Online Confidential 2023

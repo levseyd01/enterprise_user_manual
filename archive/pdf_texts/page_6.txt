@@ -1,0 +1,47 @@
+TRANSFER S LO
+View Securities Due to Expire .............cccccccceceeeceeeeeeeeeeeeeeeeeeeeeeseeceeeeeeecneeeeeeeeneeeeeseeieeeeeeenaee 60
+View Upcoming Exercise Options . ...60
+DIVIDENS ooo... eee eee cece e cece eceaeeeeeeeteeeeseaeeceaaeesaaeeseaeeseaeeseeaeeseaeeseeeessneeseaeeseeeseseeseneeseneeees 61
+View Dividend Details 00.0.0... eee eee ceence cence eeeeeeeaeeeeaeeeeeesseeeeseaeeseaeessseeeseneeseaeeeeneeeneaeensea 61
+Perform a Dividend 0000... eee eee ceeneeceneeeeeeeeeeeceeeeeeeeseneessaeeseaeeesseeessaeeseeeseeeeeseesseeeeenneees 62
+[ar] ANZ=1k0 RS) (0(6] ks) ©) || eee 64
+Step 1: Select Split Option ............ cc eeccccceeeecceeceeeeceeeeeeeeaeeeeeseeaaeeeeseeaeeeeseecaaeeeeseeneeeeeseeneeees 65
+Step 2: REVIOW..........:cccccccecccceeeceeeeeeeeeeeeeeeceaaeeeeseaaeececceaeeessecaeeeeeceeeeeseccaeeeseeeneeeeteeeeeess 66
+Step 3: Complete SUMMAY ............:cccccccceeceececeeeeeneeeceeeeaeeeeeeeeeeeeeeeeeeeeeecaaeeeseesieeeeeseneeeess 66
+Reverse Stock Split
+Step 1: Select Split Option ............ cc eeccccceeeecceeceeeeceeeeeeeeaeeeeeseeaaeeeeseeaeeeeseecaaeeeeseeneeeeeseeneeees 67
+Step 2: REVIOW..........:cccccccecccceeeceeeeeeeeeeeeeeeceaaeeeeseaaeececceaeeessecaeeeeeceeeeeseccaeeeseeeneeeeteeeeeess 68
+Step 3: Complete SUMMAY ............:cccccccceeceececeeeeeneeeceeeeaeeeeeeeeeeeeeeeeeeeeeecaaeeeseesieeeeeseneeeess 69
+Add PLOXi€S «0.0.0... eeeeeescee cence teeeeceeeeeeeaeeceaeesseeeseaeeseaeeeseaeessaeeseeeeseaaeessaeeseaeessseeeeseeseneeseneeenes 69
+Step 1: Proxy Detail ...69
+Step 2: Proposals............. ..10
+
+Step 3: Pay for Transaction. wi l2
+Step 4: Complete SUMMA ............::cccccceceeeceeeeeeeneeeeeeeeaeeeeeceaeeeeeeceeeeseccaaeeeseesieeeeesenaeeess 72
+Upload Additional Shareholders ..............cccccccccceececeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeseeneeeeeeeeeeeeeeeenneeeeeees 72
+Step 1: Upload Shareholder List File ................cccccccceeeeeeeeeeeeeeeeeeeeeeneeeeeeesaeeeeseeseeeeeteseaeeess 73
+Step 2: Shareholder List................... wi l4
+Step 3: Data Validation ....... 74
+
+Step 4: Data Contd Validation ..............::cccceceeeeeseeeteeeeeeeee 15
+Step 5: Authorized Shares Validation & Save to Database .. fee As)
+Step 6: Complete SUMMALY ............:::cccccceeeeeceeeeeeeneeeeeeceeaeeeeeeeeeeeeeeeeaeeeseccaeeeeeeeeieeeesseeaeeess 76
+Certificates oe. eee cece eeeneeceeeeeeeeeaaeeesaeeseaeessaeeseaeeseaaesseeessaeeseaeesesaeessaeesseesneeeeeseeesaees 77
+View Certificates... eee ceeeeeeeeceneeeeneeeeeeeessaeeseaeesesaeeseaeeseaeeseaeeseaeeseaeesseeeseeeeeneeseeaeeneea 77
+View Certificate Details ....... eee ee cece e eee e cere eeeaee cence seaeeeseeeeseaeeseaeessseeeseneessaeeseneeeeeeeeneea
+View Current Status Report we
+View Securities Due to EXpire ............ccccccceececceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeceeeeeeeeeeneeeeeeeeieeeeeneaee 78
+View Certificate Orders... ee eee cece cence eeeeeeeaeeceaeeseseeeseeeeseaeeseaaeeseaeeseeessseeeeeaeeseneeseeaeeneaa 79
+Order Certificates 20... eee cece cece eceseeeenaeeseaeeeseeeceeaeessaeessseeessaeessaeeeseeessaeessneesseeeeeeeeeenees 79
+Step 1: Certificate List ...........cccceccceccececcceeeeceeeeeceeeeeeeceaaeeeesceaeeeeeeceaeeeeseecaeeeeeeeeneeeeeeenaeeees
+Step 2: Make Payment..... :
+Step 3: Complete Order
+REPOMS .......eceeccceeeececeeeeeeeeeeeeecaaeececesaaeeeeecaaeeeeccaaeeeeccaaeeeescaaeeeesceaeeeeeecccaeeeesecaeeeseceaeeeeeeenaeeess 82
+
+Current Balance ..... ....82
+Latest Transactions
+Shareholders Report .
+Tax Lots Report..........::0:08 we
+Ownership Percentage Report 0.0.00... eee ceecseeesseeeeeeeeeaeeseaeeeeeeeeseaeessaeeseaeeessaeeseeeseeeeessaeeseages 84
+
+vi Transfer Online Confidential 2023

@@ -1,0 +1,685 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Single Issuer User Manual &#8212; Transfer Online Documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster.custom.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster.bundle.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-shadow.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-punk.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-noir.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-light.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-borderless.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/micromodal.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/css\rtd_sphinx_search.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/jquery.js?v=5d32c60e"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+    <script src="_static/documentation_options.js?v=695f23b8"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/hoverxref.js"></script>
+    <script src="_static/js/tooltipster.bundle.min.js"></script>
+    <script src="_static/js/micromodal.min.js"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script src="_static/js\rtd_search_config.js"></script>
+    <script src="_static/js\rtd_sphinx_search.min.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'index';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="My Accounts" href="My_Accounts.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="#">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/solo-logo.png" class="logo__image only-light" alt="Transfer Online Documentation - Home"/>
+    <script>document.write(`<img src="_static/solo-logo.png" class="logo__image only-dark" alt="Transfer Online Documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="My_Accounts.html">My Accounts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Company_Information.html">Company Information</a></li>
+
+
+<li class="toctree-l1"><a class="reference internal" href="Manage_Stock.html">Manage Stock</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Certificates.html">Certificates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Reports.html">Reports</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Billing.html">Billing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Help_Desk.html">Help Desk</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Index_end.html">Index</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/levseyd01/ResourceHub" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/levseyd01/ResourceHub/blob/stable/source/index.rst?plain=1" target="_blank"
+   class="btn btn-sm btn-source-file-button dropdown-item"
+   title="Show source"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="btn__text-container">Show source</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/levseyd01/ResourceHub/edit/stable/source/index.rst" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/levseyd01/ResourceHub/issues/new?title=Issue%20on%20page%20%2Findex.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/index.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Single Issuer User Manual</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#table-of-contents">Table of Contents</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="single-issuer-user-manual">
+<h1>Single Issuer User Manual<a class="headerlink" href="#single-issuer-user-manual" title="Link to this heading">#</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p><strong>Version History</strong></p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Rev #</p></th>
+<th class="head"><p>Date</p></th>
+<th class="head"><p>Name</p></th>
+<th class="head"><p>Rev Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Initial</p></td>
+<td><p>04/14/2023</p></td>
+<td colspan="2"><p>Teeka Thompson| Initial</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<section id="table-of-contents">
+<h2>Table of Contents<a class="headerlink" href="#table-of-contents" title="Link to this heading">#</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="My_Accounts.html">My Accounts</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="My_Accounts.html#link-to-my-shareholder-account">Link to My Shareholder Account</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Company_Information.html">Company Information</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#dashboard">Dashboard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#general">General</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#edit-company-information">Edit Company Information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#upload-a-logo-for-reports-certificate-layout">Upload a Logo for Reports &amp; Certificate Layout</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#upload-a-site-logo">Upload a Site Logo</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Company_Information.html#authorized-shares">Authorized Shares</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#delete-authorized-shares">Delete Authorized Shares</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Company_Information.html#security-types">Security Types</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#add-a-new-security-type">Add a New Security Type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#edit-a-security-type">Edit a Security Type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#edit-a-certificate">Edit a Certificate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#delete-a-security-type">Delete a Security Type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#reserved-shares">Reserved Shares</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#reserve-shares-for-a-shareholder">Reserve Shares for a Shareholder</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#link-to-a-reserve-account">Link to a Reserve Account</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#history">History</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#shareholders">Shareholders</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#view-shareholder-details">View Shareholder Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#download-status-reports">Download Status Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#view-certificate-information">View Certificate Information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#create-a-web-account-for-this-shareholder">Create a Web Account for this Shareholder</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#web-account-users">Web Account Users</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#administrators">Administrators</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#news">News</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#add-news">Add News</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#documents">Documents</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#emails">Emails</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#send-a-new-email">Send a New Email</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#email-statements-to-all-shareholders">Email Statements to All Shareholders</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#view-email-details">View Email Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#activity-list">Activity List</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company_Information.html#add-an-activity">Add an Activity</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Manage_Stock.html">Manage Stock</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#transaction-history">Transaction History</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#download-transaction-and-cost-basis-reports">Download Transaction and Cost Basis Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#edit-transaction-details">Edit Transaction Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#add-transaction-documents">Add Transaction Documents</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#delete-a-transaction">Delete a Transaction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#issue-new-shares">Issue New Shares</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-3-pay-for-transaction">Step 3: Pay for Transaction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-4-complete-summary">Step 4: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id1">Step 1: Basic Information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-transfer-from">Step 2: Transfer From</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-3-reason-for-transfer">Step 3: Reason for Transfer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-4-transfer-to">Step 4: Transfer To</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-5-pay-for-transaction">Step 5: Pay for Transaction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-6-complete-summary">Step 6: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id2">Step 1: Basic Information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-convert-from">Step 2: Convert From</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-5-complete-summary">Step 5: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#retire-shares">Retire Shares</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id3">Step 1: Basic Information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-certificates-to-retire">Step 2: Certificates to Retire</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-3-complete-summary">Step 3: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#file-and-replace-a-lost-certificate">File and Replace a Lost Certificate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#view-certificate-details">View Certificate Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#order-a-lost-certificate">Order a Lost Certificate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#download-and-view-a-current-status-report">Download and View a Current Status Report</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#view-securities-due-to-expire">View Securities Due to Expire</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#view-upcoming-exercise-options">View Upcoming Exercise Options</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#view-dividend-details">View Dividend Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#perform-a-dividend">Perform a Dividend</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-1-select-dividend-details">Step 1: Select Dividend Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-review">Step 2: Review</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id4">Step 3: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#forward-stock-split">Forward Stock Split</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-1-select-split-option">Step 1: Select Split Option</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id5">Step 2: Review</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id6">Step 3: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#reverse-stock-split">Reverse Stock Split</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id7">Step 1: Select Split Option</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id8">Step 2: Review</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id9">Step 3: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-1-proxy-detail">Step 1: Proxy Detail</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-proposals">Step 2: Proposals</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id10">Step 3: Pay for Transaction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#id11">Step 4: Complete Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-1-upload-shareholder-list-file">Step 1: Upload Shareholder List File</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-2-shareholder-list">Step 2: Shareholder List</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Manage_Stock.html#step-3-data-validation">Step 3: Data Validation</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Certificates.html">Certificates</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Certificates.html#view-certificates">View Certificates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Certificates.html#view-certificate-orders">View Certificate Orders</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Certificates.html#order-certificates">Order Certificates</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Reports.html">Reports</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Reports.html#current-balance">Current Balance</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Billing.html">Billing</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Billing.html#invoices">Invoices</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Billing.html#statements">Statements</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Help_Desk.html">Help Desk</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Help_Desk.html#contact-us">Contact Us</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Help_Desk.html#download-user-manual">Download User Manual</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Index_end.html">Index</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#a">A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#b">B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#c">C</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#d">D</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#e">E</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#f">F</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#g">G</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#h">H</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#i">I</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#k">K</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#l">L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#m">M</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#n">N</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Index_end.html#o">O</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="right-next"
+       href="My_Accounts.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">My Accounts</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#table-of-contents">Table of Contents</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By D.Levsey
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023, Transferonline..
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

@@ -1,0 +1,66 @@
+TRANSFER
+
+ine
+
+SOLO
+
+DOCUMENES ..........cccccecceeeeeeeceeeeeeeeeeeeeceaeeeceseeaaeeeeecsaaeeeeeecaaeeeesecaaeeesecccaeeeescccaeesesseaeeeeeeeenneeeeenes 35
+
+Create a Document Category
+Add a Document to a Category
+
+EMail .........cccccceccecececeeeeceeceeeeeceaeeeeecceaeeeeeecaaeeeesesaaeeeeseqaaeeeescaaeeeesccaeeeesecceeeeeeseceeesesenneeeeenes
+
+Send a New Email
+Email statements to all Shareholders...
+View Email Details
+
+Activity List ..0........ccccceccecceceeeeeneeeeeeceeeeeeecaaeeeeecaaeeeeeecaaeeeeeecaeeeeeceaeeeeeeceeeeeesseceeeeeeeeneeeeeeeaee 40
+Add An ACTIVItY 0.0.2... eeeceeccceeecee cece eecneeeeeeeeaeeeeeecaaeeeeecaeeeeesecaaeeeeseeaaeeeeeceaeeeeeeseneeeeeeeeseeeeeseeeed 41
+Manage Stock 0.0.0... eecececeeeeeeeeneeceseeseeeeseeeeeaeeesaeeseaeesnsaeessaeeseaeessseeeseaeessaeeseeeesseeeseeeseeeees 42
+Transaction HiStory............ccccccecccceeeecceeeeeceeeeeeeeeceeeeeeceeeeeesecaaeeeescecaeeeeseeqeeeeeseeceeeeeeeeeeeeeseneed 42
+
+Download Transaction and Cost Basis Reports
+Edit Transaction Details ..........0....:008
+
+Add Transaction Documents...
+Delete a Transaction
+
+Issue NOW Shares ...........ccccccceeeeeceeeeeeecceeeeeeeaeeeeeecaeeeeesccaaeeeecccaaeeesecccaeeeesecaeeesesseceeeeeneneeeeeees 43
+
+Step 1: Basic Information
+Step 2: Issue Shares......
+Step 3: Pay for Transaction..
+Step 4: Complete Summary .
+
+Transfer Shares.............
+
+Step 1: Basic Information
+Step 2: Transfer From
+Step 3: Reason for Transfer.
+Step 4: Transfer To
+Step 5: Pay for Transaction
+Step 6: Complete Summary
+
+Convert Shares .0........cccccccceeecceeecenneeeeeeeeceeeececaaeeeesceaaeeeesecaeeeecccaeeeeeseeaeeeseccaeeeeeseeeeeeeeseeaeeees
+
+Step 1: Basic Information
+Step 2: Convert From.
+Step 3: Convert To
+
+Step 4: Pay for Transaction
+Step 5: Complete Summary
+
+Retire SHAres .........ecccccccceeececeeeeeneeeeeceeeeeeecccaeeeeescaaeeeeseceeeeseecaeeeeececaeeeesseceeeeesesceeeeseenneeeeeees
+
+Step 1: Basic Information
+Step 2: Certificates to Retire
+Step 3: Complete Summary
+
+File and Replace a Lost Certificate
+
+View Certificate Details
+Order a Lost Certificate .............::cee
+Download and View a Current Status Repo
+
+v Transfer Online Confidential 2023

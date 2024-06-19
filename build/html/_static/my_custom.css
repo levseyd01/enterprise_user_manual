@@ -1,0 +1,11 @@
+.parameter-bottom-bar {
+    border-top: 2px solid #ccc;
+    padding-bottom:1rem;
+}
+
+
+div.margin {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}

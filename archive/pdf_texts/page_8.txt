@@ -1,0 +1,54 @@
+TRANSFER
+
+SOLO
+
+My Accounts
+
+Use the My Accounts option to link to your shareholder account and manage your account(s)
+from the dashboard.
+
+e Select Manage to open the dashboard and manage your accounts. See Dashboard for
+more information.
+
+Note: If you are linked to an account, the My Accounts manage my accounts screen is the first
+screen that opens after you logon. If you are not linked to an account, the dashboard is the first
+screen that opens after you logon.
+
+My Accounts
+
+COMPANY ACCOUNTS:
+
+Demo Company
+
+721
+Phone. 503-555-5555
+
+Figure 1. My Accounts Manage my Accounts screen.
+
+The Link to my shareholder account button allows you to link to a shareholder's account, but
+you must be an admin and a shareholder to use this option.
+
+Link to My Shareholder Account
+1. Select Link to my shareholder account.
+The Link to shareholder account screen opens.
+
+ts /- Link to Shareholder Account
+
+Link to
+
+Account Information
+
+Enter your 14 character Security Code here to gain immediate access to your account and add it to the list. The code will have been sent to you by the issuing company,
+
+Security Code
+
+Figure 2. My Accounts, Link to shareholder account screen.
+
+2. Enter your 14 character security code in the Security Code field.
+This code was sent to you by the issuing company.
+3. Select Save.
+
+The newly linked shareholder account is added in the Shareholder Accounts
+section.
+
+8 Transfer Online Confidential 2023

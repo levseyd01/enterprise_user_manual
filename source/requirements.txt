@@ -1,0 +1,16 @@
+sphinx
+sphinx_copybutton
+sphinx_togglebutton
+readthedocs-sphinx-search
+myst-parser
+alabaster
+rst2pdf
+
+sphinx-prompt
+sphinx_book_theme
+sphinx-hoverxref
+sphinxcontrib.httpdomain
+sphinx-notfound-page
+sphinxcontrib-osexample
+sphinx-copybutton
+sphinx-tabs
