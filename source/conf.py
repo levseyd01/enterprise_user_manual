@@ -154,10 +154,8 @@ exclude_patterns = ['_static',
 html_theme_options = {
     # Other theme options
 
-      
-      "announcement": "https://github.com/pydata/pydata-sphinx-theme/raw/main/docs/_templates/custom-template.html"
 
-  #  "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>",
+       "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>"
 }
 
 html_css_files = ["my_custom.css"]
@@ -168,7 +166,8 @@ html_css_files = ["my_custom.css"]
 
 # html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
-
+def setup(app):
+    app.add_css_file('custom.css')
 
 
 suppress_warnings = [
@@ -275,6 +274,8 @@ pdf_fit_background_mode = 'scale'
 
 # Repeat table header on tables that cross a page boundary?
 pdf_repeat_table_rows = True
+
+
 
 # Enable smart quotes (1, 2 or 3) or disable by setting to 0
 pdf_smartquotes = 1
