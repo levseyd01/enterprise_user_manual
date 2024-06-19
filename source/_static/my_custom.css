@@ -12,13 +12,11 @@ div.margin {
 
 
 html[data-theme=light] {
-    --sbt-color-announcement: #ff8623d4;
+    --pst-color-secondary-bg: #ff8623d4;
 }
-
 html[data-theme=dark] {
-    --sbt-color-announcement: #333333; /* Example for a dark theme */
+    --pst-color-secondary-bg: #333333;
 }
-
 .bd-header-announcement {
     background-color: var(--sbt-color-announcement) !important;
 }
