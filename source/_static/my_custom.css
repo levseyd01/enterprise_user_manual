@@ -10,12 +10,10 @@ div.margin {
     border: 1px solid #ccc;
 }
 
-html[data-theme=light] {
-
-    background-color: #ff8623d4;
-    
+html[data-theme="light"] {
+    --announcement-color: #ff8623d4; /* Orange color for the announcement banner */
+    --announcement-link-color: #ff0000; /* Red color for the links in the announcement */
 }
-
 
 
 .custom-announcement {
