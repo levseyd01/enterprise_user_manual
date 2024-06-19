@@ -15,6 +15,16 @@ div.margin {
     background-color: #ffa500; /* Orange background */
 }
 
+sidebar-message {
+    width: 100%;
+    background-color: #ff8623d4; /* Light gray background */
+    text-align: center;
+    padding: 10px 0;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333; /* Darker text for contrast */
+    background-color: #ff8623d4;
+}
 
 
 .custom-announcement {
