@@ -152,12 +152,8 @@ exclude_patterns = ['_static',
 
 
 html_theme_options = {
-    # Other theme options
-
-
-       "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>"
+    "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>"
 }
-
 html_css_files = ["my_custom.css"]
 
 # -- Options for HTML output -------------------------------------------------
