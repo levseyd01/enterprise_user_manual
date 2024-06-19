@@ -125,7 +125,7 @@ myst_all_links_external = False
 
 
 html_theme_options = {
-    "repository_url": "https://github.com/levseyd01/Single_Issuer_User_Manual_SOLO",
+    "repository_url": "https://github.com/levseyd01/enterprise_user_manual",
     "use_source_button": True,
     "use_edit_page_button": True,
     "path_to_docs": "source",
@@ -150,6 +150,11 @@ exclude_patterns = ['_static',
 
 # -- General configuration ---------------------------------------------------
 
+
+html_theme_options = {
+    # Other theme options
+    "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a></p> for the most accurate information",
+}
 
 html_css_files = ["my_custom.css"]
 
