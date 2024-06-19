@@ -18,7 +18,14 @@ html[data-theme=dark] {
     --pst-color-secondary-bg: #333333;
 }
 .bd-header-announcement {
-    background-color: var(--sbt-color-announcement) !important;
+    background-color: var(--bs-border-color-translucent) !important;
+}
+
+
+.bd-header-announcement a {
+
+    color: var(--bs-danger);
+    font-size: x-large;
 }
 
 .bd-header-announcement__content {
@@ -39,4 +46,9 @@ html[data-theme=dark] {
 
 .custom-announcement a:hover {
     text-decoration: underline !important;
+}
+
+
+.bd-header-announcement p {
+    font-weight: 600;
 }
