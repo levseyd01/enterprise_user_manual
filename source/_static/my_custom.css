@@ -11,6 +11,11 @@ div.margin {
 }
 
 
+.bd-header-announcement {
+    background-color: #ffa500; /* Orange background */
+}
+
+
 
 .custom-announcement {
     width: 100%;
