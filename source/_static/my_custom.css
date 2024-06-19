@@ -24,7 +24,7 @@ html[data-theme=dark] {
 }
 
 
-.bd-header-announcement a {
+#bd-header-version-warning a, .bd-header-announcement a {
 
     color: var(--bs-danger);
     font-size: x-large;
@@ -50,6 +50,11 @@ html[data-theme=dark] {
     text-decoration: underline !important;
 }
 
+
+.bd-header-announcement {
+  background-color:  var(--bs-border-color-translucent) !important;
+  color: #fff;
+}
 
 .bd-header-announcement p {
     font-weight: 600;
