@@ -9,7 +9,7 @@ import os
 import sys
 
 
-project = 'Single Issuer Manual'
+project = 'Enterprise User Manual'
 copyright = '2023, Transferonline.'
 html_title = 'Transfer Online Documentation'
 author = 'D.Levsey'
