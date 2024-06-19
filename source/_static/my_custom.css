@@ -11,7 +11,7 @@ div.margin {
 }
 
 html[data-theme="light"] {
-    --announcement-color: #ff8623d4; /* Orange color for the announcement banner */
+    --sbt-color-announcement: #ff8623d4; /* Orange color for the announcement banner */
     --announcement-link-color: #ff0000; /* Red color for the links in the announcement */
 }
 
