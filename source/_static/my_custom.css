@@ -12,7 +12,7 @@ div.margin {
 
 html[data-theme=light] {
 
-    --sbt-color-announcement:  #ff8623d4; 
+    background-color: #ff8623d4;
     
 }
 
