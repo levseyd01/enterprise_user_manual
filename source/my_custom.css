@@ -1,0 +1,44 @@
+.parameter-bottom-bar {
+    border-top: 2px solid #ccc;
+    padding-bottom:1rem;
+}
+
+
+div.margin {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+
+html[data-theme=light] {
+    --sbt-color-announcement: #ff8623d4;
+}
+
+html[data-theme=dark] {
+    --sbt-color-announcement: #333333; /* Example for a dark theme */
+}
+
+.bd-header-announcement {
+    background-color: var(--sbt-color-announcement) !important;
+}
+
+.bd-header-announcement__content {
+    padding: 10px 0 !important;
+    text-align: center !important;
+}
+
+.custom-announcement {
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    color: #333 !important; /* Darker text for contrast */
+}
+
+.custom-announcement a {
+    color: #ff0000 !important; /* Red color for the link */
+    text-decoration: none !important;
+}
+
+.custom-announcement a:hover {
+    text-decoration: underline !important;
+}
