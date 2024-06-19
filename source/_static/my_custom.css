@@ -30,12 +30,17 @@ html[data-theme=dark] {
     font-size: x-large;
 }
 
+
+var(--bs-border-color-translucent) !important;
+
 .bd-header-announcement__content {
     padding: 10px 0 !important;
     text-align: center !important;
 }
 
-.custom-announcement {
+
+
+p.custom-announcement {
     font-size: 1.2em !important;
     font-weight: bold !important;
     color: #333 !important; /* Darker text for contrast */
