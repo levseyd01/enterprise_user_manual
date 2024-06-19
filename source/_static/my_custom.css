@@ -10,10 +10,25 @@ div.margin {
     border: 1px solid #ccc;
 }
 
-html[data-theme="light"] {
-    --sbt-color-announcement: #ff8623d4; /* Orange color for the announcement banner */
-    --announcement-link-color: #ff0000; /* Red color for the links in the announcement */
+
+
+
+
+html[data-theme=light] {
+    --sbt-color-announcement: #ff8623d4 !important;
+     
 }
+
+.bd-header-announcement {
+    background-color: var(--sbt-color-announcement) !important;
+}
+
+.bd-header-announcement__content {
+    padding: 10px 0 !important;
+    text-align: center !important;
+}
+
+
 
 
 .custom-announcement {
