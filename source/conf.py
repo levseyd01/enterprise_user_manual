@@ -141,9 +141,7 @@ html_theme_options = {
     "use_download_button": True,
     "show_prev_next": False,
     "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>",
-     "extra_footer": {
-        "common": [f"<p>{common_content}</p>"]
-    }
+     "extra_footer":  "Site is currently under construction. <a href='/path/to/your/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information"
 }
 
 html_logo = "_static/solo-logo.png"
