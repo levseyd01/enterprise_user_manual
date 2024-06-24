@@ -120,6 +120,9 @@ myst_enable_extensions = [
 ]
 
 
+common_content = "Site is currently under construction. <a href='/path/to/your/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information"
+
+
 myst_all_links_external = False
 
 
@@ -136,7 +139,11 @@ html_theme_options = {
     "show_navbar_depth": 4,
     "home_page_in_toc": True,
     "use_download_button": True,
-    "show_prev_next": False
+    "show_prev_next": False,
+    "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>",
+     "footer_items": {
+        "common": [f"<p>{common_content}</p>"]
+    }
 }
 
 html_logo = "_static/solo-logo.png"
@@ -151,9 +158,7 @@ exclude_patterns = ['_static',
 # -- General configuration ---------------------------------------------------
 
 
-html_theme_options = {
-    "announcement": "<p class='custom-announcement'>Site is currently under construction. <a href='_static/enterprise_user_manual.pdf' download>Download PDF</a> for the most accurate information</p>"
-}
+
 html_css_files = ["my_custom.css"]
 
 # -- Options for HTML output -------------------------------------------------
